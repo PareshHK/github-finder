@@ -13,7 +13,7 @@ function RepoList({repos}) {
                 <RepoItem key={repo.id} repo={repo} />
             ) )}
         </div>
-      REPOS
+      
     </div>
   )
 }
